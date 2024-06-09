@@ -1,0 +1,1 @@
+IsRightTriangle is a function for testing if a triangle is triangle is 'right-angled' by the edges and the epsilon theorem
